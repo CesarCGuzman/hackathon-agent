@@ -1,2 +1,5 @@
+.adk
 .adk-venv
+.venv
+venv
 .env
